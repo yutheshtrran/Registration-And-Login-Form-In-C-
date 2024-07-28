@@ -1,4 +1,4 @@
-# Registration-And-Login-Form-In-C-
+# Registration & Login form
 Registration And Login Form In C++ 
 
 Login System using C++
